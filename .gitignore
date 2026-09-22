@@ -1,0 +1,10 @@
+.venv/
+.venv-vllm/
+__pycache__/
+*.py[cod]
+.env
+*.log
+model/
+models/
+exports/
+checkpoints/
